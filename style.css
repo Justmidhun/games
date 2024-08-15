@@ -1,0 +1,58 @@
+.first{
+    width: 95em;
+    height: 40em;
+    background-image: url(back.jpg);
+    margin-left: -1em;
+}
+  
+.h1-text{
+    padding-left: 1em;
+    padding-top: 2em;
+    font-family: fangsong;
+    font-size: 4em;
+}
+.para{
+    padding-left: 4em;
+    padding-top: 1em;
+}
+.read-more{
+    margin-left: 4em;
+    padding: 1em;
+    border-radius: 1em;
+    background: #aaaaaa
+}
+.SECOND{
+    width: 100em;
+    height: 42em;
+    background-image: url('third.jpg');
+    margin-left: -1em;
+   
+    
+}
+.h1new-game{
+    padding-left: 1em;
+    padding-top: 2em;
+    font-family: fangsong;
+    font-size: 4em;
+    text-align: center;
+    margin-top: 0em;
+    padding-top: 1em;
+    color: white;
+
+
+}
+.ff{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+.ff-p{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+.card-title{
+    text-decoration: none;
+    
+    
+}
